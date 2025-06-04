@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+.env/
+Scripts/
+bin/
+lib/
+include/
+.idea/            # پوشه تنظیمات PyCharm (مثل تنظیمات پروژه، دیباگ، و غیره)
+.idea/*.xml       # فایل‌های XML تنظیمات PyCharm
+.idea/*.iml       # فایل‌های ماژول PyCharm
+.idea/workspace.xml  # تنظیمات محیط کاری
+.idea/tasks.xml   # تنظیمات تسک‌ها
+.idea/vcs.xml     # تنظیمات نسخه‌بندی
+.idea/dictionaries/  # دیکشنری‌های کاربر
+.idea/shelf/      # فایل‌های شلف PyCharm
+*.log
+*.cache
+*.swp
+*.swo
+*.bak
+*.tmp
+*.csv
+*.json
+*.txt
